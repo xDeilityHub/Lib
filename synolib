@@ -68,7 +68,7 @@ Background.Name = "Background"
 Background.Parent = UICopied
 Background.BackgroundColor3 = Color3.fromRGB(25, 25, 25)
 Background.Position = UDim2.new(0, 676, 0, 266)
-Background.Size = UDim2.new(0, 600, 0, 400)
+Background.Size = UDim2.new(0, 500, 0, 400)
 local toggledui = false
 		UserInputService.InputBegan:Connect(function(input)
 			pcall(function()
